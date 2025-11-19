@@ -2114,14 +2114,14 @@ body.is-preload #footer {
 	transform: translateX(8px);
 }
 
-.contact-item > i {
+.contact-item>i {
 	font-size: 2rem;
 	color: rgba(255, 255, 255, 0.8);
 	flex-shrink: 0;
 	transition: all 0.3s ease;
 }
 
-.contact-item:hover > i {
+.contact-item:hover>i {
 	color: #ffffff;
 	transform: scale(1.1);
 }
@@ -2136,16 +2136,16 @@ body.is-preload #footer {
 	.contact-list {
 		gap: 1.25rem;
 	}
-	
+
 	.contact-item {
 		padding: 1.25rem;
 		gap: 1.25rem;
 	}
-	
-	.contact-item > i {
+
+	.contact-item>i {
 		font-size: 1.75rem;
 	}
-	
+
 	.contact-info {
 		font-size: 1rem;
 	}
@@ -2156,11 +2156,11 @@ body.is-preload #footer {
 		padding: 1rem;
 		gap: 1rem;
 	}
-	
-	.contact-item > i {
+
+	.contact-item>i {
 		font-size: 1.5rem;
 	}
-	
+
 	.contact-info {
 		font-size: 0.95rem;
 	}
