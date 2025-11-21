@@ -1,0 +1,6 @@
+# robots.txt for stephanie-auer.com
+
+User-agent: *
+Allow: /
+Disallow: /impressum
+Disallow: /datenschutz
